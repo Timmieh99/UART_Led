@@ -6,23 +6,29 @@ Detta projekt innehåller en UART-drivrutin skriven i C++ för mikrokontrollerpl
 Krav
 
 För att använda denna drivrutin behöver du följande:
-
+```
 STM32F411x utvecklingskort
+  
 STM32CubeIDE eller annan kompatibel IDE
+  
 UART-kabel eller USB till UART-omvandlare
-
+```
 Användning
-
+````
 Klona eller ladda ner källkoden som en ZIP-fil från detta repository.
+  
 Importera projektet till din IDE
+  
 Kör main.cpp filen
-
+````
 Funktioner
 
 Följande funktioner tillhandahålls av UART-drivrutinen:
-
+````
 void USART2_Init()
-int USART2_write()
-int USART2_read()
 
+int USART2_write()
+
+int USART2_read()
+````
 
