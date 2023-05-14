@@ -6,13 +6,13 @@ Detta projekt innehåller en UART-drivrutin skriven i C++ för mikrokontrollerpl
 Krav
 
 För att använda denna drivrutin behöver du följande:
-```
+````
 STM32F411x utvecklingskort
   
 STM32CubeIDE eller annan kompatibel IDE
   
 UART-kabel eller USB till UART-omvandlare
-```
+````
 Användning
 ````
 Klona eller ladda ner källkoden som en ZIP-fil från detta repository.

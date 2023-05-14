@@ -1,6 +1,6 @@
 #include "UART.h" //Hämtar vår samlingsfil för headers och funktioner
 
-void USART2_Init(void) { //Deklarerar en funktion för att initiera USART-protkokollet och dess beståndsdelar
+void USART2_Init(void) { //Deklarerar en funktion för att initiera USART-protokollet och dess beståndsdelar
 
 // 1. Enablea klocktillgång för uart2
 
